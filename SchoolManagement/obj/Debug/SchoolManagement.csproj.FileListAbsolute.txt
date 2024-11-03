@@ -8,3 +8,13 @@ E:\projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.
 E:\projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
 E:\projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
 E:\projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\bin\Debug\SchoolManagement.exe
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\bin\Debug\SchoolManagement.pdb
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.csproj.AssemblyReference.cache
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.Form1.resources
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.exe
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.pdb
