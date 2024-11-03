@@ -18,3 +18,5 @@ E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagemen
 E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
 E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.exe
 E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.pdb
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.Main.resources
+E:\projects\SchoolManagementSystem-c-\SchoolManagement\obj\Debug\SchoolManagement.Student.resources

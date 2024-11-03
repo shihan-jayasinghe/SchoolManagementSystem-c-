@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace SchoolManagement
 {
-    public partial class Main : Form
+    public partial class Subject : Form
     {
-        public Main()
+        public Subject()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Student student = new Student();
-            student.Show();
         }
     }
 }
